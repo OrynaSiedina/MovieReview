@@ -10,6 +10,7 @@ import java.time.LocalDateTime;
 
 @Service
 public class ReviewService {
+    @Autowired
     private ReviewRepository reviewRepository;
     @Autowired
     private MongoTemplate mongoTemplate;
