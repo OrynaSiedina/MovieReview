@@ -1,4 +1,4 @@
-package dev.arinas.movies;
+package dev.arinas.movies.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

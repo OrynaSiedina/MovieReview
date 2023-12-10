@@ -1,5 +1,7 @@
-package dev.arinas.movies;
+package dev.arinas.movies.services;
 
+import dev.arinas.movies.models.Movie;
+import dev.arinas.movies.repos.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
